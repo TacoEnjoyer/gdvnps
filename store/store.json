@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "version": "v0.0.1-nighly1",
+      "version_num": "0.0.1-nighly1",
+      "dl_link_pc": "https://github.com/TacoEnjoyer/gdvnps/releases/download/beta/gdvnps.zip",
+      "dl_link_android": "0",
+      "dl_link_ios": "0"
+    },
+    {
+      "version": "sigma release",
+      "version_num": "1.0.0",
+      "dl_link_pc": "https://github.com/TacoEnjoyer/gdvnps/releases/download/release/gdvnps_1.0.0.zip",
+      "dl_link_android": "https://github.com/TacoEnjoyer/gdvnps/releases/download/release/gdvnps_1.0.0.apk",
+      "dl_link_ios": "0"
+    },
+    {
+      "version": "R.I.P Noxicloud release",
+      "version_num": "1.0.1",
+      "dl_link_pc": "https://github.com/TacoEnjoyer/gdvnps/releases/download/rip_Noxicloud_release/gdvnps_1.0.1.zip",
+      "dl_link_android": "https://github.com/TacoEnjoyer/gdvnps/releases/download/rip_Noxicloud_release/gdvnps_1.0.1.apk",
+      "dl_link_ios": "0"
+    },
+    {
+      "version": "1.0.2 (PC Update)",
+      "version_num": "1.0.2",
+      "dl_link_pc": "https://github.com/TacoEnjoyer/gdvnps/releases/download/1.0.2/gdvnps_1.0.2.zip",
+      "dl_link_android": "0",
+      "dl_link_ios": "0"
+    },
+    {
+      "version": "1.0.3 (Welcome to iOS)",
+      "version_num": "1.0.3",
+      "dl_link_pc": "https://github.com/TacoEnjoyer/gdvnps/releases/download/1.0.3/gdvnps_1.0.3.zip",
+      "dl_link_android": "0",
+      "dl_link_ios": "https://github.com/TacoEnjoyer/gdvnps/releases/download/1.0.3/gdvnps_1.0.3.ipa"
+    },
+    {
+      "version": "1.0.4",
+      "version_num": "1.0.4",
+      "dl_link_pc": "https://github.com/TacoEnjoyer/gdvnps/releases/download/1.0.4/gdvnps_1.0.4.zip",
+      "dl_link_android": "https://github.com/TacoEnjoyer/gdvnps/releases/download/1.0.4/gdvnps_1.0.4.apk",
+      "dl_link_ios": "https://github.com/TacoEnjoyer/gdvnps/releases/download/1.0.4/gdvnps_1.0.4.ipa"
+    },
+    {
+      "version": "1.0.5",
+      "version_num": "1.0.5",
+      "dl_link_pc": "https://github.com/TacoEnjoyer/gdvnps/releases/download/1.0.5/gdvnps_1.0.5.zip",
+      "dl_link_android": "https://github.com/TacoEnjoyer/gdvnps/releases/download/1.0.5/gdvnps_1.0.5.apk",
+      "dl_link_ios": "https://github.com/TacoEnjoyer/gdvnps/releases/download/1.0.5/gdvnps_1.0.5.ipa"
+    }
+  ]
+}
