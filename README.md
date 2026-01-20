@@ -9,7 +9,7 @@
 
     - **Windows:**
         - Giải nén file `themagnision-gdvnps.zip` vào folder thích hợp.
-        - Vào folder game và chạy file `gdvnps.exe'.
+        - Vào folder game và chạy file `gdvnps.exe`.
         - Enjoy :)
      
     - **Android:**
@@ -27,7 +27,7 @@
 
 - **Bước 1:** Tải Geode Launcher Android cho GDVNPS tại đây: https://github.com/TacoEnjoyer/gdvnps/releases/download/geode/geode-launcher-v1.4.2-gdvnps-build.apk.
 - **Bước 2:** Cài đặt file Geode Launcher apk mà bạn mới tải vê.
-- **Bước 3:**: Hãy chắc chắn rằng bạn đã cài đặt **GDVNPS cho Android**. Mở Geode Launcher cho GDVNPS lên và tận hưởng.
+- **Bước 3:** Hãy chắc chắn rằng bạn đã cài đặt **GDVNPS cho Android**. Mở Geode Launcher cho GDVNPS lên và tận hưởng.
 
 ## Support:
 Nếu có thắc mắc, vui lòng hãy và Server Discord của GDVNPS để nhận được sự trợ giúp từ bọn mình: https://discord.gg/SmBs7xGSWM.
